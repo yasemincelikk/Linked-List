@@ -1,1 +1,1 @@
-# Linked-List
+In thıs project, used c++. 
